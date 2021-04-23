@@ -1,0 +1,46 @@
+.comment-text {
+   
+    height: 25px;
+    width: 250px;
+    /* overflow: auto; */
+}
+.btn-add{
+    color: white;
+        /* background: aquamarine; */
+    background: #0066A2;
+    /* position: absolute;
+    left: 555px;
+    top: 45px; */
+}
+.btn-edit{
+    color:white;
+    background: #0066A2;
+    /* background: aquamarine; */
+    /* position: absolute;
+    left:555px;
+    top: 45px; */
+
+}
+.btn-save{
+    color:white;
+    background: rgb(22, 141, 7);
+    /* position: absolute;
+    left: 555px;
+    top: 45px; */
+}
+.btn-delete{
+    color:white;
+    background: rgb(243, 6, 6);
+    /* position: absolute;
+    left: 608px;
+    top: 45px; */
+}
+/* .commment-menu{
+    text-align: center;
+} */
+.list{
+    /* padding-left: 550px;
+    padding-top: 10px; */
+    /* list-style-position:initial ; */
+    list-style-type: inherit;
+}
